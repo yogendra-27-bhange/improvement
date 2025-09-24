@@ -2,7 +2,7 @@ import os
 import subprocess
 
 FILENAME = "dummy_commits.txt"
-NUM_COMMITS = 1000
+NUM_COMMITS = 100
 
 # Ensure the file exists
 def ensure_file():
